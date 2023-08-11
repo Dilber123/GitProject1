@@ -7,7 +7,9 @@ public class Dog {
             System.out.println("Dog barks");
         }
     }
-
+public void walk(){
+    System.out.println("Dog walks on 4 feet");
+}
 
 }
 
